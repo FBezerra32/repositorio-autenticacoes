@@ -1,2 +1,2 @@
 # repositorio-autenticacoes
-Repositório autenticações curdo GIT e GITHUB - DIO
+Repositório autenticações curso GIT e GITHUB - DIO
